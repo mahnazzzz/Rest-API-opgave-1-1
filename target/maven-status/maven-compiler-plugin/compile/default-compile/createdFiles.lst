@@ -1,0 +1,7 @@
+httpErrors\NoQuotesExistsExceptionMapper.class
+httpErrors\QuoteNotFoundExceptionMapper.class
+com\mycompany\week6opgave1\quoteResource.class
+httpErrors\GenericExceptionMapper.class
+com\mycompany\week6opgave1\ApplicationConfig.class
+httpErrors\NotFoundExceptionMapper.class
+com\mycompany\week6opgave1\quoteResource$1.class
